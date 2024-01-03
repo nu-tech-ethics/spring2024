@@ -1,45 +1,21 @@
 ---
 layout: module
 num: 4
-title: '"Unintended Consequences"'
+title: Racial Capitalism
 type: lecture
-draft: 1
+draft: 0
 group: 2
 show_schedule: 1
 due_date: 2024-01-16
 slides:
-  - url: https://docs.google.com/presentation/d/1L1DAdgF3ksS2FoOxW0sGHjB9bzGuQMHFrcoXWjuH2FM/edit?usp=sharing
-    title: Unintended Consequences
+  - url: TBA
+    title: Racial Capitalism
 readings:
-  - title: A tweet thread on "Unintended Consequences"
-    url: https://canvas.northwestern.edu/files/16235578/
-    author: Fiesler, C.
-    date: 2020
-    source: Twitter
-    notes: After reading the tweet thread above, explore one of the related articles below.
-  - title: Google Drive Has A Loophole That Allows Harassment
-    url: https://www.buzzfeednews.com/article/katienotopoulos/google-drive-harassment-remove-shared
-    author: Notopoulos, K. 
-    date: 2019
-    source: Buzzfeed News
-    pick_one: 1
-  - title: Voice-based Communities and Why It’s So Hard To Moderate Them
-    url: https://medium.com/acm-cscw/voice-based-communities-and-why-they-are-so-hard-to-moderate-b3339c1f0f6a
-    author: Jiang, A.
-    date: 2019
-    source: Medium
-    pick_one: 1
-  - title: Natalie Garrett on Ethical Debt and Ethics Education
-    url: https://alltechishuman.org/natalie-garrett
-    author: Garrett, N.
-    date: 2020
-    source: All Tech Is Human
-    pick_one: 1
-  - title: Early thoughts on today’s violence
-    url: https://medium.com/@vickiebananas/early-thoughts-on-todays-violence-bb57d8c4df28
-    author: Chávez, V. C. 
-    date: 2022
-    source: Medium
-    pick_one: 1
+  - title: Capitalism (Episode 4)
+    url: https://www.hulu.com/watch/52af08f3-6b92-4411-836d-4b433dd1acc0?play=false&utm_source=shared_link
+    author: Hannah-Jones, N.
+    date: 2023
+    source: The 1619 Project (Hulu Series)
+    notes: "We recognize not everyone may have access to Hulu and as such have <a href='https://canvas.northwestern.edu/files/18094996/'>uploaded a version to Canvas</a>. Also, this could be a great opportunity to come together (covid-safely, of course) with your learning pods and watch together in person!" 
 ---
 
