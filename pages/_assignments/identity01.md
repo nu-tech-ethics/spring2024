@@ -8,14 +8,6 @@ ordering: 1
 draft: 1
 ---
 
-## Journal Setup
-1. Create a Google Document and title in the following way: “LASTNAME_FIRSTINITIAL_IDJ” (EX: “MELO_N_IDJ”)
-  - This whole doc is your journal– a place to keep all entries together. 
-  - You’ll be submitting **individual entries** through Canvas
-2. Share Google Doc with profs: 
-  - vcchavez@u.northwestern.edu
-  - melon@u.northwestern.edu
-
 Remember: Every time you make an entry, **you must submit the text on Canvas.**
 
 
