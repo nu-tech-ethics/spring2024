@@ -3,11 +3,10 @@ layout: module
 num: 1
 title: Course Introduction
 type: lecture
-draft: 1
 group: 101
 show_schedule: 1
 slides:
-  - url: https://nu-tech-ethics.github.io/winter2024-nam/syllabus/
+  - url: TBA
     title: Intro to Computing, Ethics, and Society
 due_date: 2024-01-04
 readings:
