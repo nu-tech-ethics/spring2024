@@ -4,6 +4,7 @@ num: 2
 title: Do Artifacts Have Politics?
 type: lecture
 group: 1
+draft: 0
 show_schedule: 1
 due_date: 2024-01-09
 slides:
