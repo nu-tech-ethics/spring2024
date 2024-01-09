@@ -5,7 +5,7 @@ abbreviation: Journal 2
 type: identity
 due_date: 2024-01-09
 ordering: 1
-draft: 1
+draft: 0
 ---
 
 "Artifacts don't have politics. People do." 
