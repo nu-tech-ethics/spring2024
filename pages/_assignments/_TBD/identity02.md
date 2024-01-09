@@ -8,10 +8,9 @@ ordering: 1
 draft: 1
 ---
 
-Share your thoughts on the following:
+"Artifacts don't have politics. People do." 
 
-1. What does ethics mean to you?
+- How would Winner respond to this statement? What are some examples from the reading? 
+- How would you respond? What are some examples from your own life?
 
-2. Reflect on what you’ve learned in class today, and revisit your response to part 1 (“What does ethics mean to you?”) (Consider how, if at all, your definition of ethics from the very beginning of class shaped how you responded to the scenarios from the second breakout activity?)
-
-Remember: **Submit your *entry text* on Canvas.**
+Note: Grading on completion attempt, so don’t worry if your answer isn’t perfect. This is a place to share your first draft thoughts! Also, please submit your **full text entry**, not a link to your journal. 
