@@ -16,5 +16,25 @@ readings:
     author: Morozov, E.
     date: 2014
     source: DLD Conference
+  - title: "FIXED: The Science/Fiction of Human Enhancement"
+    url: https://www.kanopy.com/en/northwestern/watch/video/144970/11111144
+    author: Brashear, R.
+    date: 2013
+    source: New Day Films
+    optional: 1
+  - title: "Against Technoableism [Podcast episode]"
+    url: https://www.youtube.com/watch?v=5svINacODaY
+    author: Gupta, J. & Shew, A.
+    date: 2023
+    source: The Pulse
+    optional: 1
+  - title: "On the Grounds of Solutionism: Ontologies of Blackness and HCI"
+    url: https://canvas.northwestern.edu/files/18157642/
+    author: Cunningham, J., Benabdallah, G., Rosner, D., & Taylor, A.
+    date: 2023
+    source: ACM Transactions on Computer-Human Interaction
+    volume: 30
+    issue: 2
+    optional: 1
 ---
 
