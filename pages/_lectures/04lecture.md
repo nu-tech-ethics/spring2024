@@ -17,7 +17,7 @@ readings:
     date: 2023
     source: The 1619 Project (Hulu Series)
     notes: "We recognize not everyone may have access to Hulu and as such have <a href='https://canvas.northwestern.edu/files/18094996/'>uploaded a version to Canvas</a>. Also, this could be a great opportunity to come together (covid-safely, of course) with your learning pods and watch together in person!" 
-   - title: Why Critical Race Theory Matters [Podcast episode]
+  - title: Why Critical Race Theory Matters [Podcast episode]
     url: https://www.law.berkeley.edu/podcast-episode/why-critical-race-theory-matters/
     author: Chemerinsky, E.
     date: 2022
