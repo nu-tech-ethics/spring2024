@@ -8,7 +8,7 @@ group: 2
 show_schedule: 1
 due_date: 2024-01-18
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1Ay_V2xrvIzM5S2jDHUGKYEhWlfyPjwjeD9OgAzIB5Ow/edit?usp=sharing
     title: Color-Evasiveness
 readings:
   - title: "Conceptualizing color-evasiveness: using dis/ability critical race theory to expand a color-blind racial ideology in education and society"
