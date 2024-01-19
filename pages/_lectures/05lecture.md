@@ -18,4 +18,26 @@ readings:
     source: Race Ethnicity and Education
     volume: 20
     issue: 2
+  - title: Toward a Tribal Critical Race Theory in Education
+    url: https://www.iirp.edu/images/pdf/AvNtDE_EDUC_701_-_Brayboys_Toward_a_Tribal_Critical_Race_Theory_in_Education.pdf
+    author: Brayboy, B.
+    date: 2005
+    source: The Urban Review
+    volume: 37
+    issue: 5
+    optional: 1
+  - title: "“A structure, not an event”: Settler Colonialism and Enduring Indigeneity"
+    url: https://csalateral.org/issue/5-1/forum-alt-humanities-settler-colonialism-enduring-indigeneity-kauanui/
+    author: Kauanui, J. K.
+    date: 2016
+    source: Lateral
+    issue: 5.1
+    optional: 1
+  - title: "Intersectionality: A Genealogy Of Black Feminist Freedom Visioning [Research Brief]"
+    url: https://issuu.com/almaiflores/docs/ms_intersectionality
+    author: Senyonga, M.
+    date: 2018
+    issue: 13
+    source: Center for Critical Race Studies at UCLA
+    optional: 1
 ---
