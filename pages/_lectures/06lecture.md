@@ -8,7 +8,7 @@ group: 3
 show_schedule: 1
 due_date: 2024-01-23
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1-Mir_iIK8jLKyzeJfbTb1zWDF9LOx2GkbD6oXDVoQ2k/edit?usp=sharing
     title: Race After Technology
 readings:
   - title: "Race After Technology"
