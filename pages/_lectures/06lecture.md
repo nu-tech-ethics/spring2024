@@ -34,4 +34,5 @@ readings:
     url: https://www.pewresearch.org/interactives/what-census-calls-us/
     author: Pew Research Center
     date: 2020
+    optional: 1
 ---
