@@ -20,4 +20,5 @@ readings:
     url: https://teachablemachine.withgoogle.com/v1/
     source: Google
     notes: "Especially if you are unfamiliar with Machine Learning, check out this tutorial before class. We'll be doing an in-class activity based on Teachable Machine."
+    optional: 1
 ---
