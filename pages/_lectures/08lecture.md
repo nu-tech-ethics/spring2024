@@ -16,4 +16,8 @@ readings:
     author: Stop LAPD Spying Coalition & Free Radicals 
     date: 2020, March 2
     source: Medium
+  - title: Teachable Machine Tutorial
+    url: https://teachablemachine.withgoogle.com/v1/
+    source: Google
+    notes: "Especially if you are unfamiliar with Machine Learning, check out this tutorial before class. We'll be doing an in-class activity based on Teachable Machine."
 ---

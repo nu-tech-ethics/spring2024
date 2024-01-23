@@ -16,4 +16,22 @@ readings:
     author: Benjamin, R.
     date: 2019
     source: Polity
+  - title: It's About Power
+    url: https://cacm.acm.org/magazines/2019/3/234921-its-about-power/fulltext
+    author: Vakil, S. & Higgs, J.
+    date: 2019
+    source: Communications of the ACM
+    volume: 62
+    issue: 3
+    optional: 1
+  - title: The Idea of America
+    url: https://pulitzercenter.org/sites/default/files/the_idea_of_america_full_essay.pdf
+    author: Hannah-Jones, N.
+    date: 2019
+    source: The New York Times
+    optional: 1
+  - title: What Census Calls Us
+    url: https://www.pewresearch.org/interactives/what-census-calls-us/
+    author: Pew Research Center
+    date: 2020
 ---
