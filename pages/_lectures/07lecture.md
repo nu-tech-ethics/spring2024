@@ -23,12 +23,11 @@ readings:
     date: 2016
     source: ProPublica
     optional: 1
-  - title: "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification"
-    url: http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
-    author: Buolamwini, J. & Gebru, T.
-    date: 2018
-    source: Proceedings of the 1st Conference on Fairness, Accountability and Transparency, in Proceedings of Machine Learning Research
-    volume: 81
+  - title: Black Feminist Musings on Algorithmic Oppression
+    url: https://arxiv.org/ftp/arxiv/papers/2101/2101.09869.pdf
+    date: 2021
+    author: Hampton, L. M.
+    source: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
     optional: 1
   - title: Counting the Countless
     url: https://reallifemag.com/counting-the-countless/

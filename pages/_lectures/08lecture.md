@@ -21,15 +21,21 @@ readings:
     source: Google
     notes: "Especially if you are unfamiliar with Machine Learning, check out this tutorial before class. We'll be doing an in-class activity based on Teachable Machine."
     optional: 1
-  - title: Black Feminist Musings on Algorithmic Oppression
-    url: https://arxiv.org/ftp/arxiv/papers/2101/2101.09869.pdf
-    date: 2021
-    author: Hampton, L. M.
-    source: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
-    optional: 1
   - title: "Automated Apartheid: How Facial Recognition Fragments, Segregates and Controls Palestinians in the Opt"
     url: https://www.amnestyusa.org/wp-content/uploads/2023/05/automated_apartheid_online_AmnestyUSA.pdf
     author: Amnesty International
     date: 2023
+    optional: 1
+  - title: "Cameras in the Classroom: Facial Recognition Technology in Schools"
+    url: https://stpp.fordschool.umich.edu/sites/stpp/files/uploads/file-assets/cameras_in_the_classroom_full_report.pdf
+    author: Galligan, C., Rosenfeld, H., Kleinman, M., & Parthasarathy, S.
+    date: 2020
+    source: University of Michigan Technology Assessment Project
+    optional: 1
+  - title: " Surveillance U: Has Virtual Proctoring Gone Too Far?"
+    url: https://interactive.yr.media/has-virtual-proctoring-gone-too-far/
+    author: Harwood, Z. & YR Interactive
+    date: 2021
+    source: YR Media
     optional: 1
 ---
