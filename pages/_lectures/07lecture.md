@@ -8,7 +8,7 @@ group: 3
 show_schedule: 1
 due_date: 2024-01-25
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/14WJPfwKES-FA8sBdaHHYf4dS4gH_ea1yZG5VI1ESI7s/edit?usp=sharing
     title: Coded Bias
 readings:
   - title: Coded Bias
