@@ -19,7 +19,6 @@ readings:
   - title: Teachable Machine Tutorial
     url: https://teachablemachine.withgoogle.com/v1/
     source: Google
-    notes: "Especially if you are unfamiliar with Machine Learning, check out this tutorial before class. We'll be doing an in-class activity based on Teachable Machine."
     optional: 1
   - title: "Automated Apartheid: How Facial Recognition Fragments, Segregates and Controls Palestinians in the Opt"
     url: https://www.amnestyusa.org/wp-content/uploads/2023/05/automated_apartheid_online_AmnestyUSA.pdf
