@@ -8,7 +8,7 @@ professor: Natalie Araujo Melo (any pronouns)
 pms: Arianna (she/her) and Tasneem (she/her)
 class_time: Tuesdays and Thursdays, 9:30am - 10:50am
 class_location: Zoom (see Canvas for link)
-office_hours: TBD 
+office_hours: Fridays 12-1PM on class zoom 
 include_covid_statement: 1
 ---
 
