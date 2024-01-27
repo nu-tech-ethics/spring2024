@@ -11,7 +11,7 @@ slides:
   - url: TBA
     title: Relationality
 readings:
-  - title: "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants"
+  - title: Braiding Sweetgrass
     url: https://canvas.northwestern.edu/files/18094998/
     author: Kimmerer, R. W.
     date: 2015
