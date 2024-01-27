@@ -17,6 +17,12 @@ readings:
     date: 2020
     source: 7th Empire Media
     notes: "We recognize not everyone may have access to Netflix and as such have <a href='https://canvas.northwestern.edu/files/18094987/'>uploaded a version to Canvas</a>. Also, this could be a great opportunity to come together (covid-safely, of course) with your learning pods and watch together in person!" 
+  - title: "Techno-Orientalism: Yellow Peril Pasts, Asian Futures, and the Marketing of the U.S. Collapse in the Video Game Homefront [Presentation]"
+    url: https://www.youtube.com/watch?v=b-hqY59-PUo
+    author: Park, T. K.
+    date: 2021
+    source: Indiana University East
+    optional: 1
   - title: Machine Bias
     url: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
     author: Angwin, J., Larson, J., Mattu, S., & Kirchne, L.

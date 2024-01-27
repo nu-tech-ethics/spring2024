@@ -16,6 +16,12 @@ readings:
     author: Benjamin, R.
     date: 2019
     source: Polity
+  - title: Algorithms of Oppression
+    url: https://canvas.northwestern.edu/files/18094985/
+    author: Noble, S.
+    date: 2018
+    source: NYU Press
+    optional: 1
   - title: It's About Power
     url: https://cacm.acm.org/magazines/2019/3/234921-its-about-power/fulltext
     author: Vakil, S. & Higgs, J.
