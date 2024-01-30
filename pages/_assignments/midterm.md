@@ -22,11 +22,11 @@ Follow [APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa6_st
 - Include an [APA style bibliography](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html) at end of writeup or as slide at end of video
 - Written formats should use:
   - [In-text citations](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) 
-  - Hyperlinks of names ([like this example)](https://points.datasociety.net/how-to-cite-like-a-badass-tech-feminist-scholar-of-color-ebc839a3619c))
 - Video formats should use:
   - verbal or textual cues (i.e., “According to Winner in ‘Do Artifacts have Politics…” while speaking
   - [In-text citations](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) when using slides
   - video annotations ([like this example](https://www.youtube.com/watch?v=d3rS7I6Xyz8))
+- Nice to have but not required: hyperlinks of names ([like this example](https://medium.com/datasociety-points/how-to-cite-like-a-badass-tech-feminist-scholar-of-color-ebc839a3619c))
 
 ## Tips and Examples
 
