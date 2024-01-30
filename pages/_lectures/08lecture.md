@@ -8,7 +8,7 @@ group: 4
 show_schedule: 1
 due_date: 2024-01-30
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1m2s2T0QpuQFO_F8QXnpG05NsZQSyTAJd8JQf4dIdzG4/edit?usp=sharing
     title: Algorithmic Ecology
 readings:
   - title: "The Algorithmic Ecology: An Abolitionist Tool for Organizing Against Algorithms"
