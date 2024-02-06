@@ -8,7 +8,7 @@ group: 5
 show_schedule: 1
 due_date: 2024-02-06
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1t5izXVhr4rLpWXdQGix1yej0lFT6ERwtejNPtZ1kFE4/edit?usp=sharing
     title: Relationality
 readings:
   - title: Braiding Sweetgrass
