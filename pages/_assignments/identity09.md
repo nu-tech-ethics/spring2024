@@ -8,9 +8,5 @@ ordering: 1
 draft: 0
 ---
 
-Reflect on your relations with Chicagoland. 
-- What have you learned about the land? 
-- What have you learned from the land? 
-- How might you grow your relations with land? 
-- Why do you think this might matter for how you use or develop technologies?
+None :) Enjoy the day.
 
