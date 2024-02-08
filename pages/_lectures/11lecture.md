@@ -16,5 +16,5 @@ readings:
     author: Costanza-Chock, S.
     date: 2020
     source: MIT Press
-    note: We'll be reading the chapter on Design Narratives, but you're welcome to check out the rest of the book on your own time (it's open access!)
+    notes: We'll be reading the chapter on Design Narratives, but you're welcome to check out the rest of the book on your own time (it's open access!)
 --- 
