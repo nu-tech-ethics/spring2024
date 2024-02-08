@@ -8,7 +8,7 @@ group: 5
 show_schedule: 1
 due_date: 2024-02-08
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1xJC-GnKA_nvKEuNdKRcwvDCAfvCGI11tMVQ1kp0s6eA/edit?usp=sharing
     title: Extractivism
 readings:
   - title: Atlas of AI
