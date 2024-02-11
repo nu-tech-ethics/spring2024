@@ -23,6 +23,7 @@ readings:
     date: 2020
     source: Learning in Places
     notes: Can find more info about Learning in Places <a href='http://learninginplaces.org/'>here</a>.
+    optional: 1
   - title: Indigenous Protocol and Artificial Intelligence
     url: https://spectrum.library.concordia.ca/id/eprint/986506/7/Indigenous_Protocol_and_AI_2020.pdf
     author: Indigenous Protocol and Artificial Intelligence Working Group
@@ -36,4 +37,5 @@ readings:
     source: Daedalus
     volume: 147
     issue: 2
+    optional: 1
 --- 
