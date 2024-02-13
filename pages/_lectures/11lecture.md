@@ -8,7 +8,7 @@ group: 6
 show_schedule: 1
 due_date: 2024-02-13
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1A-S7poyxA9iSxSx7IdKeh1cFTsLNMtJ481gM-RBqoIU/edit?usp=sharing
     title: Design Narratives
 readings:
   - title: "Design Justice"
