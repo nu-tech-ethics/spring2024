@@ -31,9 +31,9 @@ Final submission of the project will include:
 About 2/3 of your effort should dedicated to creating the prototype, and the other 1/3 should be dedicated to the project proposal (which articulates your theory of change). 
 
 ### Graduate Credit Students
-For graduate credit students only, you will also be required to:
+For graduate credit students, you will ALSO be required to:
 
-3. Submit a separate document (2-page max, single-spaced) further reflecting on the design choices for your project. Specifically, extend at least 3 of the 5 guidelines based on ideas from the readings.
+- Submit a separate document (2-page max, single-spaced) further reflecting on the design choices for your project. Specifically, extend at least 3 of the 5 guidelines based on ideas from the readings.
 
 ## III. Prototype Guidelines
 Your prototype should give us a sense of what you hope to create. This could be a sample story, module, podcast, presentation, etc. Or, if you're planning to build an app, website, or game, it could be a prototype of your vision. 
