@@ -4,7 +4,7 @@ title: "Final Project"
 abbreviation: Final
 due_date: 2024-03-12
 ordering: 1
-draft: 1
+draft: 0
 ---
 
 ## I. Introduction
@@ -20,7 +20,7 @@ For your final assignment in this class, we want to push you to think about how 
 > * Hosting a podcast series
 > * And more! We've curated a list of resources [here](../resources) that can give you some ideas. 
 
-You may work individually or in groups of no more than three (3) people. 
+You may work individually or in groups of no more than three (3) people. (Yes, graduate credit students can work with undergraduate credit students.)
 
 ## II. Format
 Final submission of the project will include:
@@ -29,6 +29,11 @@ Final submission of the project will include:
 2. A proposal document (3-page max, single-spaced), considering the project guidelines below.
 
 About 2/3 of your effort should dedicated to creating the prototype, and the other 1/3 should be dedicated to the project proposal (which articulates your theory of change). 
+
+### Graduate Credit Students
+For graduate credit students only, you will also be required to:
+
+3. Submit a separate document (2-page max, single-spaced) further reflecting on the design choices for your project. Specifically, extend at least 3 of the 5 guidelines based on ideas from the readings.
 
 ## III. Prototype Guidelines
 Your prototype should give us a sense of what you hope to create. This could be a sample story, module, podcast, presentation, etc. Or, if you're planning to build an app, website, or game, it could be a prototype of your vision. 
@@ -56,10 +61,11 @@ If you were to implement this project, what are your next steps in terms of rese
 * How will you reach out to the people who really understand the context you’re studying and who are most impacted by the technology to make sure you understand their needs?
 * How will you test your prototype to ensure you’re delivering the message / idea / topic effectively (think back to what you defined as success in your objectives)?
 
-## V. What to Turn In
-1. A short (no more than 5 min) presentation on the last class (Wednesday 5/31)
-	- Think of your presentation as project pitch to get feedback from your peers and instructors
-2. Your paper (due 6/7 at 11:59pm)
+## 6. Feedback Assignments
+Prior to submitting your final, you have opportunities for feedback. You will submit the following:
+
+1. Weekly finals scaffolds based on sections of the guidelines, where you will receive feedback from the PMs.
+2. A short (no more than 5 min) presentation on the last class (Thursday 3/7), where you will receive feedback from your fellow classmates.
 
 ## VI. Rubric
 
