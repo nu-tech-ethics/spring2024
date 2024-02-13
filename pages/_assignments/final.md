@@ -61,7 +61,7 @@ If you were to implement this project, what are your next steps in terms of rese
 * How will you reach out to the people who really understand the context you’re studying and who are most impacted by the technology to make sure you understand their needs?
 * How will you test your prototype to ensure you’re delivering the message / idea / topic effectively (think back to what you defined as success in your objectives)?
 
-## 6. Feedback Assignments
+## V. Feedback Assignments
 Prior to submitting your final, you have opportunities for feedback. You will submit the following:
 
 1. Weekly finals scaffolds based on sections of the guidelines, where you will receive feedback from the PMs.
