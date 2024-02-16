@@ -17,12 +17,11 @@ readings:
     date: 2022
     source: Data & Society Research Institute
     notes: You can check out more in the series <a href="https://datasociety.net/library/parables-of-ai-in-from-the-majority-world-an-anthology/">Parables of AI in/from the Majority World</a>.
-  - title: "Episode 1: Welcome to Radical AI"
-    url: https://www.radicalai.org/minisodes/welcome-to-radical-ai
-    author: Doyle-Burke, D. & Smith, J.
-    date: 2020
-    source: The Radical AI Podcast
-    notes: No need to go on iTunes. If you scroll down, the podcast recording and transcript are available.
+  - title: In The Robot Skies
+    url: https://www.youtube.com/watch?v=cXfYyk0G5Hs
+    author: Young, L.
+    date: 2016
+    source: Fear and Wonder
   - title: "Building Utopia Guidebook"
     url: https://canvas.northwestern.edu/files/18500435/
     author: Harrington, C., Roberts, J., Bray, K., & Diakhate, N. 
