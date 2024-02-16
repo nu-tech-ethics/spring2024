@@ -26,5 +26,5 @@ readings:
     url: https://cdn.ttc.io/s/datadetoxkit.org/youth/Data-Detox-x-Youth_EN.pdf
     author: Tactical Tech
     date: 2021
-    notes: You can find versions in other languages <a href="https://datadetoxkit.org/en/families/datadetox-x-youth/">here</a>.
+    notes: There are <a href="https://datadetoxkit.org/en/families/datadetox-x-youth/">versions available in other languages</a> too.
 --- 

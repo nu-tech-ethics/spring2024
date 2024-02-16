@@ -16,7 +16,7 @@ readings:
     author: Gwadabe, A.
     date: 2022
     source: Data & Society Research Institute
-    notes: You can check out more in the series <a href="https://datasociety.net/library/parables-of-ai-in-from-the-majority-world-an-anthology/">Parables of AI in/from the Majority World</a>.
+    notes: More stories are available in the series <a href="https://datasociety.net/library/parables-of-ai-in-from-the-majority-world-an-anthology/">Parables of AI in/from the Majority World</a>.
   - title: In The Robot Skies
     url: https://www.youtube.com/watch?v=cXfYyk0G5Hs
     author: Young, L.
@@ -27,5 +27,5 @@ readings:
     author: Harrington, C., Roberts, J., Bray, K., & Diakhate, N. 
     date: 2021
     source: Building Utopia
-    notes: You can check out some of the Building Utopia <a href="https://canvas.northwestern.edu/files/18500436/">cards here</a>.
+    notes: Here's a sample of the <a href="https://canvas.northwestern.edu/files/18500436/">Building Utopia cards</a>.
 --- 
