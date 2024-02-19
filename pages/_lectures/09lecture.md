@@ -34,4 +34,12 @@ readings:
     date: 2021
     source: Duke University Press
     optional: 1
+  - title: If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us?
+    url: https://doi.org/10.1162/DAED_a_00498
+    author: Bang, M., Marin, A., & Medin, D.
+    date: 2018
+    source: Daedalus
+    volume: 147
+    issue: 2
+    optional: 1
 ---
