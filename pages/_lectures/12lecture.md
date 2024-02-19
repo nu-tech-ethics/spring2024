@@ -18,4 +18,10 @@ readings:
     volume: 6
     source: Engaging Science, Technology, and Society
     notes: Feel free to watch <a href="https://youtu.be/iZw7HLCM5GU?si=m1_mFusQCwoBYkP3&t=1218">Dr. Nassim Parvin's presentation</a> as a primer (but not substitute!) to the article
+  - title:
+    url:
+    author:
+    date:
+    source:
+    optional: 1
 --- 
