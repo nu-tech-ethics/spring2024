@@ -23,4 +23,9 @@ readings:
     author: Instagram
     date: 2024
     optional: 1
+  - title: Perspective API
+    url: https://www.perspectiveapi.com/
+    author: Jigsaw & Google Counter Abuse Technology team
+    date: 2023
+    optional: 1
 --- 
