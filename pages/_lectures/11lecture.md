@@ -17,4 +17,10 @@ readings:
     date: 2020
     source: MIT Press
     notes: We'll be reading the chapter on Design Narratives, but you're welcome to check out the rest of the book on your own time (it's open access!)
+  - title: Oh No, Not Another Trolley! On the Need for a Co-Liberative Consciousness in CS Pedagogy
+    url: https://canvas.northwestern.edu/files/18094993/
+    author: Williams, R., Smarr, S., Prioleau, D., & Gilbert, J. E.
+    date: 2022
+    source: IEEE Journals & Magazine
+    optional: 1
 --- 
