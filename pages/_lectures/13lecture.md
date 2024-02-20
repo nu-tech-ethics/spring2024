@@ -8,7 +8,7 @@ group: 7
 show_schedule: 1
 due_date: 2024-02-20
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1Kb4AZAUOJlQo2cNouANoeNQjJjso1nrsu20z1o-eKMg/edit?usp=sharing
     title: Data Capitalism
 readings:
   - title: Data Capitalism
