@@ -28,13 +28,11 @@ readings:
     date: 2021
     source: Building Utopia
     notes: Here's a sample of the <a href="https://canvas.northwestern.edu/files/18500436/">Building Utopia cards</a>.
-  - title: "“Run Wild a Little With Your Imagination”: Ethical Speculation
-in Computing Education with Black Mirror"
+  - title: "“Run Wild a Little With Your Imagination”: Ethical Speculation in Computing Education with Black Mirror"
     url: https://cmci.colorado.edu/~cafi5706/SIGCSE2022_BlackMirror.pdf
     author: Klassen, S. & Fiesler, C.
     date: 2022
-    source:  Proceedings of the 53rd ACM Technical Symposium on Computer Science
-Education (SIGCSE 2022)
+    source:  Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE 2022)
     volume: 1
     notes: Check out the <a href="https://www.internetruleslab.com/black-mirror-writers-room">Internet Rules Lab</a> for Black Mirror Writers Room slides and more.
     optional: 1
