@@ -10,4 +10,6 @@ due_date: 2024-03-07
 slides:
   - url: TBA
     title: Final Presentations
+readings:
+  - title: Your choice!
 --- 
