@@ -8,7 +8,7 @@ group: 7
 show_schedule: 1
 due_date: 2024-02-22
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1dBXtJ0wsqAw2OoEXVcJ60RjmF_zHOhOmQMNiIVPY7Zc/edit?usp=sharing
     title: AI Futures
 readings:
   - title: African Ancestral AI
