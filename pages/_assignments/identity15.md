@@ -5,7 +5,7 @@ abbreviation: Journal 15
 type: identity
 due_date: 2024-02-27
 ordering: 1
-draft: 1
+draft: 0
 ---
 
 Answer the following prompt from Building Utopia:
