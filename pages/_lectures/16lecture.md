@@ -16,5 +16,5 @@ readings:
     author: Wang, X.
     date: 2020
     source: Farrar, Straus and Giroux
-    notes: Feel free to check out Wang's <a href="https://youtu.be/jsFAFsx9otw?si=KaNpYgRjjiLLGWZ7">Ted Talk</a> too!
+    notes: Feel free to check out Xiaowei Wang's <a href="https://youtu.be/jsFAFsx9otw?si=KaNpYgRjjiLLGWZ7">Ted Talk</a> too!
 --- 
