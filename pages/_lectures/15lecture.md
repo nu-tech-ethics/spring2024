@@ -17,4 +17,5 @@ readings:
     date: 2021
     source: Canadian Journal of Science, Mathematics and Technology Education
     volume: 21
+    notes: More resources from the article available on this <a href="https://linktr.ee/CSAbolition">Linktree</a>.
 --- 
