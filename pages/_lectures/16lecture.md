@@ -17,7 +17,7 @@ readings:
     date: 2020
     source: Farrar, Straus and Giroux
     notes: Feel free to check out Xiaowei Wang's <a href="https://youtu.be/jsFAFsx9otw?si=KaNpYgRjjiLLGWZ7">Ted Talk</a> too!
-  - title: Studying Up Machine Learning Data
+  - title: "Studying Up Machine Learning Data: Why Talk About Bias When We Mean Power?"
     url: https://milamiceli.com/wp-content/uploads/2021/10/GROUP2022_CRv1.pdf
     author: Miceli, M., Posada, J., & Yang, T.
     date: 2022
