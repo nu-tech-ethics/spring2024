@@ -17,6 +17,14 @@ readings:
     date: 2020
     source: Farrar, Straus and Giroux
     notes: Feel free to check out Xiaowei Wang's <a href="https://youtu.be/jsFAFsx9otw?si=KaNpYgRjjiLLGWZ7">Ted Talk</a> too!
+  - title: Studying Up Machine Learning Data
+    url: https://milamiceli.com/wp-content/uploads/2021/10/GROUP2022_CRv1.pdf
+    author: Miceli, M., Posada, J., & Yang, T.
+    date: 2022
+    source: Proc. ACM Hum.-Comput. Interact.
+    volume: 1
+    issue: 1
+    optional: 1
   - title: Why Am I Always Being Researched?
     url: https://chicagobeyond.org/wp-content/uploads/2019/05/ChicagoBeyond_2019Guidebook.pdf
     author: Chicago Beyond
