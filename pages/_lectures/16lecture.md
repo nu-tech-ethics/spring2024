@@ -8,7 +8,7 @@ group: 8
 show_schedule: 1
 due_date: 2024-02-29
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/11tc9CXVcsC3zaXJoByR6qvdiXEdELzc-fw8BMDjOy1E/edit?usp=sharing
     title: Outsider
 readings:
   - title: Blockchain Chicken Farm
