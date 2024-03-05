@@ -8,7 +8,7 @@ group: 9
 show_schedule: 1
 due_date: 2024-03-05
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1tI3eSeZkpRSaJVBha3OdiJ7tuROaNIMgMfJwCSmXGD0/edit?usp=sharing
     title: So, What Now?
 readings:
   - title: Your Thoughts for a Penny? Capital, Complicity, and AI Ethics
