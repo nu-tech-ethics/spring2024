@@ -5,10 +5,10 @@ type: page
 permalink: /syllabus/
 course: "CS 396/496 | LS 351: Computing, Ethics, and Society"
 professor: Natalie Araujo Melo (any pronouns)
-pms: Arianna (she/her) and Tasneem (she/her)
+pms: Danielle (she/her) and Lily (she/her)
 class_time: Tuesdays and Thursdays, 9:30am - 10:50am
 class_location: Zoom (see Canvas for link)
-office_hours: Fridays 12-1PM on class zoom 
+office_hours: TBD
 include_covid_statement: 1
 ---
 
@@ -30,14 +30,7 @@ The course is open to all students. For CS majors, minors, and graduate students
 This course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Natalie Araujo Melo.
 
 ## Required Texts
-All assigned readings will be available via Canvas as PDFs, no purchase required. If you would like to dive more in-depth into the topics we learn about, below are the books we will be reading chapters from (in chronological order):
-
-1. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
-    * You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
-1. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
-    * Available through <a href="https://www-jstor-org.turing.library.northwestern.edu/stable/j.ctv1ghv45t">Northwestern's JSTOR access</a>.
-1. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/">Design Justice</a>. The MIT Press.
-    * Open access (yay!)
+All assigned readings will be available via Canvas as PDFs, no purchase required. If you would like to dive more in-depth into the topics we learn about, there are optional readings included each week for further exploration.
 
 ## Course Format & Grading
 The course format will consist of:
@@ -46,7 +39,7 @@ The course format will consist of:
 1. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
 ### Office Hours
-TBD
+Weekly office hours will be held by the instructor. Office hours are a time to ask questions about the class and assignments, as well as to hang out and continue conversations from the week's topics. All are welcome.
 
 Course grades will be composed of:
 1. Participation (40%)
@@ -61,12 +54,12 @@ We will use classroom discussion as a form of collaborative sense-making to unde
 
 #### Identity Journal
 
-Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class. **You may skip one identity journal post without a grade penalty.**
+Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class.
 
 {:.blockquote-no-margin}
 > **Attendance and Absence Policy**
 > 
-> You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted.
+> You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted. Note that you are still expected to complete assignments even if you are absent.
 
 ### 3. Midterm (30%)
 Using at least 3 of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology. Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. Your analysis will be designed to shed light on questions such as: What values do this technology reflect, embrace, reject, or encourage? Who is affected by its design? How was its design affected by society? Who reaps the benefits, and who suffers the costs of its creation and use? 
