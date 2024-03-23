@@ -5,7 +5,7 @@ title: Course Introduction
 type: lecture
 draft: 1
 group: 101
-show_schedule: 1
+show_schedule: 0
 slides:
   - url: https://docs.google.com/presentation/d/1fNfHjAmYXkY341wryU1Yji0cWddVP2jlS7rXZz7CNx0/edit?usp=sharing
     title: Intro to Computing, Ethics, and Society
