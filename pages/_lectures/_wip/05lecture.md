@@ -3,9 +3,9 @@ layout: module
 num: 5
 title: Color-Evasiveness
 type: lecture
-draft: 0
+draft: 1
 group: 2
-show_schedule: 1
+show_schedule: 0
 due_date: 2024-01-18
 slides:
   - url: https://docs.google.com/presentation/d/1Ay_V2xrvIzM5S2jDHUGKYEhWlfyPjwjeD9OgAzIB5Ow/edit?usp=sharing

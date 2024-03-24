@@ -3,9 +3,9 @@ layout: module
 num: 3
 title: Solutionism
 type: lecture
-draft: 0
+draft: 1
 group: 1
-show_schedule: 1
+show_schedule: 0
 due_date: 2024-01-11
 slides:
   - url: https://docs.google.com/presentation/d/1fbCMuA2x1dIuvfT4KaTs0hG-m2wkbiZsUEmpsbpxaGs/edit?usp=sharing

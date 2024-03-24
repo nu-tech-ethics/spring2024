@@ -3,9 +3,9 @@ layout: module
 num: 4
 title: Racial Capitalism
 type: lecture
-draft: 0
+draft: 1
 group: 2
-show_schedule: 1
+show_schedule: 0
 due_date: 2024-01-16
 slides:
   - url: https://docs.google.com/presentation/d/1HrlxwvMzTFgc14TqcCrV1TJmYwk6n5AS-e4qVyS-7gY/edit?usp=sharing

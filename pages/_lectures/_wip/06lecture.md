@@ -3,9 +3,9 @@ layout: module
 num: 6
 title: Race After Technology
 type: lecture
-draft: 0
+draft: 1
 group: 3
-show_schedule: 1
+show_schedule: 0
 due_date: 2024-01-23
 slides:
   - url: https://docs.google.com/presentation/d/1-Mir_iIK8jLKyzeJfbTb1zWDF9LOx2GkbD6oXDVoQ2k/edit?usp=sharing
