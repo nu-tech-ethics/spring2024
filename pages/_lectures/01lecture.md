@@ -3,7 +3,7 @@ layout: module
 num: 1
 title: Course Introduction
 type: lecture
-draft: 1
+draft: 0
 group: 101
 show_schedule: 1
 slides:
