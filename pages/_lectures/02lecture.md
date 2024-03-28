@@ -12,7 +12,7 @@ slides:
     title: Do Artifacts Have Politics?
 readings:
   - title: Do Artifacts Have Politics?
-    url: https://canvas.northwestern.edu/files/18094995/
+    url: https://canvas.northwestern.edu/files/18867992/
     author: Winner, L.
     date: 1980
     source: Daedalus
