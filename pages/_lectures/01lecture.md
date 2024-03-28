@@ -7,7 +7,7 @@ draft: 0
 group: 101
 show_schedule: 1
 slides:
-  - url: TBD
+  - url: https://docs.google.com/presentation/d/1vJF_sG2-3cnQ2fciv2RMmEez1S5wu8fdbAcUTDA5pf0/edit?usp=sharing
     title: Intro to Computing, Ethics, and Society
 due_date: 2024-03-28
 readings:
