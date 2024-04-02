@@ -8,7 +8,7 @@ draft: 0
 show_schedule: 1
 due_date: 2024-04-02
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1-74JcFNjXiZmSEpCZiEkubMNGWBm0Yd1OTibe_6k_Do/edit?usp=sharing
     title: Do Artifacts Have Politics?
 readings:
   - title: Do Artifacts Have Politics?
