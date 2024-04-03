@@ -22,7 +22,6 @@ readings:
     author: Engel, J.
     date: 2023
     source: Decolonial Atlas
-    notes: Check out the full-size maps under the "Printing" heading (<a href="https://decolonialatlas.files.wordpress.com/2023/10/turtle-island-decolonized-map-with-index.pdf">here's an example of one</a>)
     optional: 1
   - title: Google redraws the borders on maps depending on who’s looking
     url: https://canvas.northwestern.edu/files/18867950/
