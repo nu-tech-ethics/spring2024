@@ -26,7 +26,6 @@ Follow [APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa6_st
   - verbal or textual cues (i.e., “According to Winner in ‘Do Artifacts have Politics…” while speaking
   - [In-text citations](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) when using slides
   - video annotations ([like this example](https://www.youtube.com/watch?v=d3rS7I6Xyz8))
-- Nice to have but not required: hyperlinks of names ([like this example](https://medium.com/datasociety-points/how-to-cite-like-a-badass-tech-feminist-scholar-of-color-ebc839a3619c))
 
 ## Tips and Examples
 
@@ -35,11 +34,13 @@ Ultimately, your conceptual framework should be useful, and productive. You will
 - Who is affected by its design? How was its design affected by society? 
 - Who reaps the benefits, and who suffers the costs of its creation and use? 
 
+Check out the rubric below to see exactly what criteria we'll be grading on!
+
 Examples ([published in BreakPoint Journal!](https://tree-in-education.github.io/BreakPointNU/index.html)):
-- E-Scooters in Chicago: A Cautionary Tale e-scooters
-  - "This paper seeks to understand the values and attitudes that have shaped the implementation of e-scooter technology in Chicago, and their subsequent impact on society. In the process, we will also examine the interplay of public policy and technological advancement, and the politics embedded in society’s interaction with technology."
 - Blue Emergency Lights: An Investment in White Supremacist Surveillance on College Campuses
   - "I maintain there is an alternative intention; blue emergency lights are a measure of surveillance to increase the perceived safety of students through the exile, policing, and surveillance of Black and brown people."
+- E-Scooters in Chicago: A Cautionary Tale e-scooters
+  - "This paper seeks to understand the values and attitudes that have shaped the implementation of e-scooter technology in Chicago, and their subsequent impact on society. In the process, we will also examine the interplay of public policy and technological advancement, and the politics embedded in society’s interaction with technology."
 
 ## Rubric
 
