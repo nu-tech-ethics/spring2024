@@ -9,7 +9,7 @@ draft: 0
 ## Instructions
 Identify a quote from the readings this week that resonated with you (and make sure to [cite it properly](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html)).
 - How does the quote relate to a core idea from the reading?
-- How does the idea from that quote resemble or differ from your perspectives on technology?
+- How does the idea from that quote resemble or differ from your perspectives on technology and/or lived experiences?
 - How has your [social identity (or identities)](https://unitedwaysem.org/wp-content/uploads/2021-21-Day-Equity-Challenge-Social-Identity-Wheel-FINAL.pdf) impacted your relationship to these ideas?
 
 ### Format
