@@ -34,7 +34,7 @@ readings:
     url: https://onbeing.org/poetry/search-engine-notes-from-the-north-korean-chinese-russian-border/
     author: Kim, S. K.
     date: 2022
-    source: Notes from the North
+    source: Smith/Doorstop
     optional: 1
   - title: What’s the real size of Africa? How Western states used maps to downplay size of continent
     url: https://www.cnn.com/2016/08/18/africa/real-size-of-africa/index.html
