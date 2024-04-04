@@ -7,6 +7,9 @@ draft: 0
 group: 1
 show_schedule: 1
 due_date: 2024-04-04
+slides:
+  - url: https://docs.google.com/presentation/d/1k0fEt8Oevk3ljrh-SeZBOgmoUt0Hxa10EUJYrSwcpP4/edit?usp=sharing
+    title: Solutionism
 readings:
   - title: "Against Solutionism"
     url: https://www.youtube.com/watch?v=uhU0hRng-eE
