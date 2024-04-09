@@ -7,6 +7,9 @@ draft: 0
 group: 2
 show_schedule: 1
 due_date: 2024-04-09
+slides:
+  - url: https://docs.google.com/presentation/d/1JmsjgTBuaGFx37mjfOUGXsnSqJccsXV0vZttOzoXS28/edit?usp=sharing
+    title: Science, Race, and Racism
 readings:
   - title: Thicker Than Blood
     url: https://canvas.northwestern.edu/files/18970892/
