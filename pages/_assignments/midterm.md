@@ -2,7 +2,7 @@
 layout: assignment
 title: "Midterm"
 abbreviation: Midterm
-due_date: 2024-02-02
+due_date: 2024-04-26
 ordering: 1
 draft: 0
 ---
@@ -14,8 +14,16 @@ Develop a conceptual framework that draws on the readings as well as your identi
 
 ### Format
 Your analysis can take the format of:
-- A paper: 5-6 page (graduate credit: 7-8 page) double spaced, 12-point font, Times New Roman. Must include citations of any quotes/ideas used and bibliography (in addition to page count).
+- A paper: 5-6 page (graduate credit: 8-10 page) double spaced, 12-point font, Times New Roman. Must include citations of any quotes/ideas used and bibliography (in addition to page count).
 - OR a presentation: 12-15 minute (graduate credit: 20-22 minute) presentation recording. Must include citations of any quotes/ideas used from readings and bibliography (can be a slide or separate attachment).
+
+#### Graduate Credit Students
+In addition to the extended paper/presentation format, graduate credit students must ALSO include a section historicizing some component of your selected technology. Some questions to think about as you develop this section: 
+- When was the technology developed? What was happening in the world during that time?
+- Who conceptualized the technology and why? What issue in the world, if any, was it in response to?
+- Who was part of the design process and who wasn't? Why was that the case during that time?
+- How has the technology been utilized over time, and by whom? Why?
+- What other historical ideas/moments is this related to?
 
 ### Citations
 Follow [APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa6_style/index.html) for formatting and references:
