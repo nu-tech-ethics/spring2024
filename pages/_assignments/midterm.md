@@ -9,7 +9,7 @@ draft: 0
 ## Instructions
 Develop a conceptual framework that draws on the readings as well as your identity to articulate your unique perspective on a **specific technology**. That is, 
 1. you will choose a technology that you would like to analyze, 
-2. you will develop a framework based on theoretical arguments from **at least 3 (graduate credit: 5) of the readings** covered thus far _and_ **your own personal identity and experience** in the world, 
+2. you will develop a framework based on theoretical arguments from **at least 3 of the readings** covered thus far _and_ **your own personal identity and experience** in the world, 
 3. you will apply your framework to analyze that technology. 
 
 ### Format
