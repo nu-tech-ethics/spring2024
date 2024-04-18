@@ -7,6 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2024-04-18
+slides:
+  - url: https://docs.google.com/presentation/d/1Rl96MBpVnWAOa9UvhNz61PFbbTqjS80kdfbgAbxwdlI/edit?usp=sharing
+    title: Coded Bias
 readings:
   - title: Teachable Machine Tutorial
     url: https://teachablemachine.withgoogle.com/v1/
