@@ -16,4 +16,22 @@ readings:
     author: Benjamin, R.
     date: 2019
     source: Polity
+  - title: Algorithms of Oppression
+    url: https://canvas.northwestern.edu/files/18867989/
+    author: Noble, S.
+    date: 2018
+    source: NYU Press
+    optional: 1
+  - title: Black Feminist Musings on Algorithmic Oppression
+    url: https://arxiv.org/ftp/arxiv/papers/2101/2101.09869.pdf
+    date: 2021
+    author: Hampton, L. M.
+    source: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency
+    optional: 1
+  - title: The Idea of America
+    url: https://pulitzercenter.org/sites/default/files/the_idea_of_america_full_essay.pdf
+    author: Hannah-Jones, N.
+    date: 2019
+    source: The New York Times
+    optional: 1
 ---
