@@ -8,7 +8,8 @@ ordering: 1
 draft: 0
 ---
 
-- Can you create a ML model to address this issue? How would it be used, and by whom?
+Refresh yourself on Teachable Machine
+- Can you create a ML model to address safety from terror attacks? How would it be used, and by whom?
 - Simultaneously, should ML be used towards this task? What would you need to consider? What are the alternatives?
 
-Try to place your response in conversation with the readings and your conversations with your pod.
+Feel free to add in reflections from class today.

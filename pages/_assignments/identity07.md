@@ -8,4 +8,4 @@ ordering: 1
 draft: 0
 ---
 
-There has been a lot going on— in the world and in class. How are you making sense of these moments? How are you feeling?
+No need to submit. Everyone will receive credit today.
