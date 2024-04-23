@@ -16,4 +16,26 @@ readings:
     author: Stop LAPD Spying Coalition & Free Radicals 
     date: 2020, March 2
     source: Medium
+  - title: "Automated Apartheid: How Facial Recognition Fragments, Segregates and Controls Palestinians in the Opt"
+    url: https://www.amnestyusa.org/wp-content/uploads/2023/05/automated_apartheid_online_AmnestyUSA.pdf
+    author: Amnesty International
+    date: 2023
+    optional: 1
+  - title: Israel quietly rolled out a mass facial recognition program in the Gaza Strip
+    url: https://www.theverge.com/2024/3/27/24114043/israel-facial-recognition-gaza-strip-corsight
+    author: Del Valle, G.
+    date: 2024
+    source: The Verge
+    optional: 1
+  - title: A History of Political Organizing in Technology
+    url: https://www.instagram.com/techworkers4palichi/p/C4ElVodL4ju/?img_index=1
+    author: Tech Workers for Palestine - Chicago
+    date: 2024
+    optional: 1
+  - title: Israel is using an AI system to find targets in Gaza. Experts say it's just the start
+    url: https://www.npr.org/2023/12/14/1218643254/israel-is-using-an-ai-system-to-find-targets-in-gaza-experts-say-its-just-the-st
+    author: Brumfiel, G.
+    date: 2023
+    source: NPR
+    optional: 1
 ---
