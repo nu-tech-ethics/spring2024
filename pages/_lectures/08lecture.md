@@ -27,15 +27,18 @@ readings:
     date: 2024
     source: The Verge
     optional: 1
-  - title: A History of Political Organizing in Technology
-    url: https://www.instagram.com/techworkers4palichi/p/C4ElVodL4ju/?img_index=1
-    author: Tech Workers for Palestine - Chicago
-    date: 2024
-    optional: 1
   - title: Israel is using an AI system to find targets in Gaza. Experts say it's just the start
     url: https://www.npr.org/2023/12/14/1218643254/israel-is-using-an-ai-system-to-find-targets-in-gaza-experts-say-its-just-the-st
     author: Brumfiel, G.
     date: 2023
     source: NPR
+    optional: 1
+  - title: "Why Ideology Matters for Learning: A Case of Ideological Convergence in an Engineering Ethics Classroom Discussion on Drone Warfare"
+    url: https://www.researchgate.net/profile/Andrew-Elby/publication/319950062_Why_Ideology_Matters_for_Learning_A_Case_of_Ideological_Convergence_in_an_Engineering_Ethics_Classroom_Discussion_on_Drone_Warfare/links/59debe53a6fdcca0d3206b30/Why-Ideology-Matters-for-Learning-A-Case-of-Ideological-Convergence-in-an-Engineering-Ethics-Classroom-Discussion-on-Drone-Warfare.pdf
+    author: Philip, T. M., Gupta, A., Elby, A. & Turpen, C.
+    date: 2017
+    source: Journal of the Learning Sciences
+    volume: 27
+    issue: 2
     optional: 1
 ---
