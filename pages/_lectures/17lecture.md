@@ -6,10 +6,7 @@ type: lecture
 draft: 0
 group: 9
 show_schedule: 1
-due_date: 2024-03-05
-slides:
-  - url: https://docs.google.com/presentation/d/1tI3eSeZkpRSaJVBha3OdiJ7tuROaNIMgMfJwCSmXGD0/edit?usp=sharing
-    title: So, What Now?
+due_date: 2024-05-28
 readings:
   - title: Your Thoughts for a Penny? Capital, Complicity, and AI Ethics
     url: https://ironholds.org/resources/papers/thoughts_for_a_penny.pdf

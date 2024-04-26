@@ -6,10 +6,7 @@ type: lecture
 draft: 0
 group: 7
 show_schedule: 1
-due_date: 2024-02-20
-slides:
-  - url: https://docs.google.com/presentation/d/1Kb4AZAUOJlQo2cNouANoeNQjJjso1nrsu20z1o-eKMg/edit?usp=sharing
-    title: Data Capitalism
+due_date: 2024-05-14
 readings:
   - title: Data Capitalism
     url: https://datacapitalism.d4bl.org/

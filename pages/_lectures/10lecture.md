@@ -6,13 +6,10 @@ type: lecture
 draft: 0
 group: 5
 show_schedule: 1
-due_date: 2024-02-08
-slides:
-  - url: https://docs.google.com/presentation/d/1xJC-GnKA_nvKEuNdKRcwvDCAfvCGI11tMVQ1kp0s6eA/edit?usp=sharing
-    title: Extractivism
+due_date: 2024-05-02
 readings:
   - title: Atlas of AI
-    url: https://canvas.northwestern.edu/files/18094999/
+    url: https://canvas.northwestern.edu/files/18867998/
     author: Crawford, K.
     date: 2021
     source: Yale University Press

@@ -6,13 +6,10 @@ type: lecture
 draft: 0
 group: 8
 show_schedule: 1
-due_date: 2024-02-29
-slides:
-  - url: https://docs.google.com/presentation/d/11tc9CXVcsC3zaXJoByR6qvdiXEdELzc-fw8BMDjOy1E/edit?usp=sharing
-    title: Outsider
+due_date: 2024-05-23
 readings:
   - title: Blockchain Chicken Farm
-    url: https://canvas.northwestern.edu/files/18534860/
+    url: https://canvas.northwestern.edu/files/18867953/
     author: Wang, X.
     date: 2020
     source: Farrar, Straus and Giroux
@@ -32,7 +29,7 @@ readings:
     notes: Great set of questions, especially from pages 60-82.
     optional: 1
   - title: Poetry, Poetic Inquiry and Rwanda
-    url: https://canvas.northwestern.edu/files/18634432/
+    url: https://canvas.northwestern.edu/files/18868003/
     author: Apol, L.
     date: 2021
     source: Springer

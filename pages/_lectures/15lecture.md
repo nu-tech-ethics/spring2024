@@ -6,10 +6,7 @@ type: lecture
 draft: 0
 group: 8
 show_schedule: 1
-due_date: 2024-02-27
-slides:
-  - url: https://docs.google.com/presentation/d/1_XHSaovKvR58AzPnq9tyO2UzjRrsjPKUSVUVC19XZ-g/edit?usp=sharing
-    title: Insider
+due_date: 2024-05-21
 readings:
   - title: "We Tell These Stories to Survive: Towards Abolition in Computer Science Education" 
     url: https://link.springer.com/article/10.1007/s42330-021-00158-2

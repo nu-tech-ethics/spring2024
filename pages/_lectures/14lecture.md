@@ -6,10 +6,7 @@ type: lecture
 draft: 0
 group: 7
 show_schedule: 1
-due_date: 2024-02-22
-slides:
-  - url: https://docs.google.com/presentation/d/1dBXtJ0wsqAw2OoEXVcJ60RjmF_zHOhOmQMNiIVPY7Zc/edit?usp=sharing
-    title: AI Futures
+due_date: 2024-05-16
 readings:
   - title: African Ancestral AI
     url: https://datasociety.net/wp-content/uploads/2022/12/DSParablesAnthology_Ch13_Gwadabe.pdf
@@ -23,11 +20,11 @@ readings:
     date: 2016
     source: Fear and Wonder
   - title: "Building Utopia Guidebook"
-    url: https://canvas.northwestern.edu/files/18500435/
+    url: https://canvas.northwestern.edu/files/18868001/
     author: Harrington, C., Roberts, J., Bray, K., & Diakhate, N. 
     date: 2021
     source: Building Utopia
-    notes: Here's a sample of the <a href="https://canvas.northwestern.edu/files/18500436/">Building Utopia cards</a>.
+    notes: Here's a sample of the <a href="https://canvas.northwestern.edu/files/18868002/">Building Utopia cards</a>.
   - title: "“Run Wild a Little With Your Imagination”: Ethical Speculation in Computing Education with Black Mirror"
     url: https://cmci.colorado.edu/~cafi5706/SIGCSE2022_BlackMirror.pdf
     author: Klassen, S. & Fiesler, C.
