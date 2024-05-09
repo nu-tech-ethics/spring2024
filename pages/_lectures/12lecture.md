@@ -8,7 +8,7 @@ group: 6
 show_schedule: 1
 due_date: 2024-05-09
 slides:
-  - url: TBA
+  - url: https://docs.google.com/presentation/d/1ChKQskq5-CWRlIhagV8i3gd1mxaQ3ckzHWVFGTOWgFw/edit?usp=sharing
     title: Unintended Consequences
 readings:
   - title: "Unintended by Design: On the Political Uses of “Unintended Consequences”"
