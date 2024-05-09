@@ -7,6 +7,9 @@ draft: 0
 group: 6
 show_schedule: 1
 due_date: 2024-05-07
+slides:
+  - url: https://docs.google.com/presentation/d/10sVihB7Zt6-uNah-_y70pKInvG_p3dRlRSIn0twbPiA/edit?usp=sharing
+    title: Design Narratives
 readings:
   - title: "Design Justice"
     url: https://designjustice.mitpress.mit.edu/pub/0v6035ye/release/2

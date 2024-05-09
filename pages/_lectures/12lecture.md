@@ -7,6 +7,9 @@ draft: 0
 group: 6
 show_schedule: 1
 due_date: 2024-05-09
+slides:
+  - url: TBA
+    title: Unintended Consequences
 readings:
   - title: "Unintended by Design: On the Political Uses of “Unintended Consequences”"
     url: https://canvas.northwestern.edu/files/18867986/
