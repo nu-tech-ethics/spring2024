@@ -21,11 +21,11 @@ readings:
     date: 1970/2007
     source: Vintage International
     optional: 1
-  - title: Letters From the Apocalypse
-    url: https://www.thenation.com/article/world/apocalypse-letters-palestine-george-abraham-sarah-aziza/
-    author: Abraham, G. & Aziza, S.
+  - title: Imagining a Free Palestine
+    url: https://time.com/6967434/imagining-free-palestine/
+    author: Ibsais, A.
     date: 2024
-    source: The Nation
+    source: TIME
     optional: 1
   - title: Dys4ia
     url: https://freegames.org/dys4ia/
