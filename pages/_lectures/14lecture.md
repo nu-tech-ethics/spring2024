@@ -7,6 +7,9 @@ draft: 0
 group: 7
 show_schedule: 1
 due_date: 2024-05-16
+slides:
+  - url: https://docs.google.com/presentation/d/1zYJRa0QqbKZlE1yGNJy2G5Ml13MJvPZLvdlGWjDGn3I/edit?usp=sharing
+    title: AI Futures
 readings:
   - title: African Ancestral AI
     url: https://datasociety.net/wp-content/uploads/2022/12/DSParablesAnthology_Ch13_Gwadabe.pdf
