@@ -7,6 +7,9 @@ draft: 0
 group: 8
 show_schedule: 1
 due_date: 2024-05-23
+slides:
+  - url: https://docs.google.com/presentation/d/1x9_oOb12N4hegGyx5QOPEc21K7IQlChSxk7E1OWPg_0/edit?usp=sharing
+    title: Outsider
 readings:
   - title: Blockchain Chicken Farm
     url: https://canvas.northwestern.edu/files/18867953/
