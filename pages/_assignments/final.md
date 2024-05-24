@@ -28,7 +28,7 @@ Final submission of the project will include:
 1. A presentable prototype or writing piece (whether it’s a chapter, podcast, interactive demo, video, etc.)
 2. A proposal document (3-page max, single-spaced), considering the project guidelines below.
 
-About 2/3 of your effort should dedicated to creating the prototype, and the other 1/3 should be dedicated to the project proposal (which articulates your theory of change). 
+About 1/3 of your effort should dedicated to creating the prototype, and the other 2/3 should be dedicated to the project proposal (which articulates your theory of change). 
 
 ### Graduate Credit Students
 For graduate credit students, you will ALSO be required to:
