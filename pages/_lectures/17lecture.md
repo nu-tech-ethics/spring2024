@@ -7,6 +7,9 @@ draft: 0
 group: 9
 show_schedule: 1
 due_date: 2024-05-28
+slides:
+  - url: https://docs.google.com/presentation/d/14sbf4tV-rdYNuDzNOJ-YC8p9haKm1jwqh2ai8SBvFu8/edit?usp=sharing
+    title: So, What Now?
 readings:
   - title: Your Thoughts for a Penny? Capital, Complicity, and AI Ethics
     url: https://ironholds.org/resources/papers/thoughts_for_a_penny.pdf
